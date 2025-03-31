@@ -1,0 +1,31 @@
+header{
+  /* display: flex; */
+  background-color:#353535 ;
+  color:aliceblue
+}
+header article h1{
+    text-align: center;
+    padding: 30px 0px;
+    font-size: 32px;
+    font-family: "Roboto";
+}
+
+header article ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:40px;
+    list-style: none;
+    font-family: "Roboto";
+}
+header article ul li a{
+    text-decoration: none;
+}
+
+#article_ul{
+    background-color: #4f4f4f;
+}
+#section_main{
+    margin:50px 100px;
+}
+#section_
