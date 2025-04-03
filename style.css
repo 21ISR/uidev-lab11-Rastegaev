@@ -125,7 +125,6 @@ header article div{
         align-items: center;
         flex-direction: column;
         width: 70vw;
-        
         text-align: center;
         padding: 2vw 20px;
         gap: 20px;
@@ -141,8 +140,9 @@ header article div{
     }
 
     #section_main article img{
-        width: 60vw;
-        height:30vh;
+        width: 80%;
+        height:auto;
+        min-width: 241px;
     }
 
     #section_main article h2{
@@ -167,6 +167,7 @@ header article div{
         list-style: none;
         font-family: "Roboto";
         padding: 10px 20px;
+        font-size: 2rem;
 
     }
     header article div select{
